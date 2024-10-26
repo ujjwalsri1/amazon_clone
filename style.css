@@ -310,7 +310,7 @@ ul p {
 /* Media Queries for Responsiveness */
 @media (max-width: 768px) {
   .navbar {
-    flex-direction: column; /* Stack navbar items vertically */
+    
     height: auto; /* Allow height to adjust */
   }
 
